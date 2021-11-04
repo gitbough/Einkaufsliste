@@ -2,6 +2,8 @@
 
 ## Joshua Gramlich
 
+![Joshua Gramlich](.\foto.png "Dargestellt: Joshua Gramlich")
+
 ### Geboren: 
 01.02.1903
 

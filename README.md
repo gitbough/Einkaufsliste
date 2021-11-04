@@ -1,15 +1,15 @@
-#Lebenslauf:
+# Lebenslauf:
 
-##Joshua Gramlich
+## Joshua Gramlich
 
-###Geboren: 
+### Geboren: 
 01.02.1903
 
-###Grundschule:
+### Grundschule:
 1909 - 1921
 
-###Weiterführende Schule:
+### Weiterführende Schule:
 1921 - 1922
 
-###Unterschrift:
+### Unterschrift:
 _Joshua Gramlich xoxo_
